@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1457640078 source:f:\proyecto c\clientes\clientes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1457639976 source:f:\proyecto c\main\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1457640108 source:f:\proyecto c\precios\precios.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1458847038 source:f:\presupuestosobra\proyecto c\clientes\clientes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1458761818 source:f:\presupuestosobra\proyecto c\main\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1458756054 source:f:\presupuestosobra\proyecto c\precios\precios.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1459376580 source:f:\presupuestosobra\proyecto c\presupuestos\presupuestos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1458847038 source:g:\presupuestosobra\proyecto c\clientes\clientes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1458761818 source:g:\presupuestosobra\proyecto c\main\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1458756054 source:g:\presupuestosobra\proyecto c\precios\precios.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1459376580 source:g:\presupuestosobra\proyecto c\presupuestos\presupuestos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1458847038 source:f:\c\presupuestosobra\proyecto c\clientes\clientes.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1458761818 source:f:\c\presupuestosobra\proyecto c\main\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1458756054 source:f:\c\presupuestosobra\proyecto c\precios\precios.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1459962922 source:f:\c\presupuestosobra\proyecto c\presupuestos\presupuestos.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
